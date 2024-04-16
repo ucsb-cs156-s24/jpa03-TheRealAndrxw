@@ -2,11 +2,6 @@
 
 Running at: <http://jpa03-therealandrxw.dokku-16.cs.ucsb.edu/>
 
-Then remove this TODO item.
-```
-
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
-
 # Configuring GitHub Pages for the documentation
 
 This repo contains Github Actions scripts that automatically create and publish documentation for the code:
